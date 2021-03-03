@@ -6,7 +6,7 @@ The goal of the project is the solve the six-puzzle of size 3x2 by considering t
 Initial state: [[1,4,2],[5,3,0]]
 Goal state: [[0,1,2],[5,4,3]]
 
-Breadth first search, uniform cost search, depth first search and iterative deepening are implemented to observe their behaviour. 
+For this project, I implemented four different algorithms: Breadth first search, uniform cost search, depth first search and iterative deepening to observe the sequence of steps in which each solves the puzzle.
 
 An example output from Breadth First search is given below:
 
