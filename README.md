@@ -7,3 +7,7 @@ Initial state: [[1,4,2],[5,3,0]]
 Goal state: [[0,1,2],[5,4,3]]
 
 Breadth first search, uniform cost search, depth first search and iterative deepening are implemented to observe their behaviour. 
+
+An example output from Breadth First search is given below:
+
+
