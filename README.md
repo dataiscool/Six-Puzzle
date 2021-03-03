@@ -10,4 +10,4 @@ Breadth first search, uniform cost search, depth first search and iterative deep
 
 An example output from Breadth First search is given below:
 
-
+<img width="100" alt="Screen Shot 2021-03-02 at 11 04 18 PM" src="https://user-images.githubusercontent.com/79892196/109751048-a30b8f80-7bab-11eb-8576-8af088241c30.png">
